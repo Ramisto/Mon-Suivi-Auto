@@ -9,8 +9,6 @@ Tableau Excel pour faciliter le suivi des entretiens de vos véhicules.
 3. Mettre les liens des vidéos tuto pour réaliser les réparation dans la colonne G dans les onglets "Plan-entretien-auto-01" et "Plan-entretien-auto-02", je vous conseil la chaîne youtube Ma Clé de 12. (facultatif)
 2. Entrer vos factures d'entretien dans les onglets "Factures-auto-01" et "Factures-auto-02".
 
-Le reste devrait se compléter tout seul. 😝
-
 ## 📝 Contribution
     
 N'hésitez pas à proposer vos idées d'amélioration ici : 
